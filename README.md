@@ -1,12 +1,12 @@
 ### 👋 Olá, eu sou EA - Evandro Abreu
 
-###🐱‍🏍 Estudante de Programação
+### 🐱‍🏍 Estudante de Programação
 
 ### 🛠 _Skills_
 
 <p align="center">
   <a href="https://EvandrocAbreu">
-    <img src="https://skillicons.dev/icons?i=vscode,heroku,aws,c,js,html,css,python,flutter,mysql,nodejs,typescript,react,next,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,next,git" />
   </a>
 </p>
 
