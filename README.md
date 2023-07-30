@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Olá, eu sou EA - Evandro Abreu
 
-<!--
-**EvandrocAbreu/EvandrocAbreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###🐱‍🏍 Estudante de Programação
 
-Here are some ideas to get you started:
+### 🛠 _Skills_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://EvandrocAbreu">
+    <img src="https://skillicons.dev/icons?i=vscode,heroku,aws,c,js,html,css,python,flutter,mysql,nodejs,typescript,react,next,git" />
+  </a>
+</p>
+
+### 💻 _GitHub_
+
+<div align="center" display="inline block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvandrocAbreu&show_icons=true&icon_color=0fb81d&include_all_commits=true&count_private=true&bg_color=18191f&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandrocAbreu&layout=compact&bg_color=18191f&text_color=fff"/>
+</div>
+
