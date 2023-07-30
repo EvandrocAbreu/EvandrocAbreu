@@ -17,6 +17,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandrocAbreu&layout=compact&bg_color=18191f&text_color=fff"/>
 </div>
 
+### ✉️ _Contact_
+
 <div display="inline-block" align="center">
    <a href="https://www.linkedin.com/in/evandrocastroabreu/" target="_blank">
      <img src="https://badgen.net/badge/Linkedin/Linkedin/blue/?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg&label"/>         
