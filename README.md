@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://EvandrocAbreu">
-    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,next,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,git" />
   </a>
 </p>
 
